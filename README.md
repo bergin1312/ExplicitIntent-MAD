@@ -49,7 +49,7 @@ activity_main2.xml
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 MainActivity.java
-
+```java
 package com.example.explicitindent;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -107,7 +107,14 @@ public class MainActivity2 extends AppCompatActivity {
 
 
 }
+
+```
 ## OUTPUT
+![ber](https://github.com/bergin1312/ExplicitIntent-MAD/assets/119404594/42287687-a1c8-4163-9f7d-ea19f029ae94)
+![ber2](https://github.com/bergin1312/ExplicitIntent-MAD/assets/119404594/5f11bb02-a1d7-493f-841a-80260bfc7740)
+![ber3](https://github.com/bergin1312/ExplicitIntent-MAD/assets/119404594/14808610-16f3-450f-bb72-e7d2aa2cb27e)
+![ber4](https://github.com/bergin1312/ExplicitIntent-MAD/assets/119404594/69749ed5-98a7-4da4-ae92-7fac8770dc5a)
+![ber5](https://github.com/bergin1312/ExplicitIntent-MAD/assets/119404594/8ee84cc9-05bf-4eb5-a257-ba5df3be7b7f)
 
 
 
